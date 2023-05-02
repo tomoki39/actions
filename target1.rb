@@ -1,1 +1,1 @@
-puts{{ name: 'Tokyo.rb', description: 'Ruby Community'}}
+puts({ name: 'Tokyo.rb', description: 'Ruby Community'})
